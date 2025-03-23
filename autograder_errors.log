@@ -1,0 +1,49 @@
+stacks-LucasBentley: stacks.py not found
+stacks-DustyD0155: stacks.py not found
+stacks-eobra23: Traceback (most recent call last):
+  File "/Users/manjumuralidharan/PycharmProjects/StacksAutograder/autograder.py", line 89, in <module>
+    spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1090, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/Users/manjumuralidharan/PycharmProjects/StacksAutograder/submissions/stacks-eobra23/Stack.py", line 36
+    """Return the top item without removing it. Raise an error if empty."""
+IndentationError: unexpected indent
+
+stacks-FarhanT6 issues:
+  - Runtime error: 'Stack' object has no attribute 'isEmpty'
+  - Missing 5 lines of output
+stacks-Melissap227 issues:
+  - Runtime error: maximum recursion depth exceeded
+  - Missing 5 lines of output
+stacks-kripamayur issues:
+  - init failed
+stacks-akasha-aliyah: Traceback (most recent call last):
+  File "/Users/manjumuralidharan/PycharmProjects/StacksAutograder/autograder.py", line 89, in <module>
+    spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/Users/manjumuralidharan/PycharmProjects/StacksAutograder/submissions/stacks-akasha-aliyah/Stack.py", line 1, in <module>
+    from tables.nodes.filenode import new_node
+ModuleNotFoundError: No module named 'tables'
+
+stacks-alyssalavalle issues:
+  - Runtime error: object of type 'Node' has no len()
+  - Missing 5 lines of output
+stacks-kdelacruz4242 issues:
+  - init failed
+stacks-pnyden: Traceback (most recent call last):
+  File "/Users/manjumuralidharan/PycharmProjects/StacksAutograder/autograder.py", line 89, in <module>
+    spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/Users/manjumuralidharan/PycharmProjects/StacksAutograder/submissions/stacks-pnyden/Stack.py", line 1, in <module>
+    from Node import Node
+ModuleNotFoundError: No module named 'Node'
+
+stacks-jhurtado19: stacks.py not found
+stacks-sfrangoulis: stacks.py not found

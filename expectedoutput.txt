@@ -1,0 +1,8 @@
+PUSH: A
+PUSH: B
+PUSH: C
+PEEK: C
+POP: C
+POP: B
+ISEMPTY: False
+SIZE: 1
